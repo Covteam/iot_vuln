@@ -50,6 +50,8 @@ Cookie: SESSION_ID=2:1700540000:2
 
 ![image-20240104003912667](image/image-20240104003912667.png)
 
+![image-20240104004341560](image/image-20240104004341560.png)
+
 The above figure shows the POC attack effect
 
 ![image-20240104003415337](image/image-20240104003415337.png)
