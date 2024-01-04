@@ -5,7 +5,7 @@
 - [x] vuln2 [cnitlrt]
 - [ ] vuln3 
 - [ ] vuln4
-- [ ] vuln5 [joe1sn]
+- [x] vuln5 [joe1sn]
 - [x] vuln6 [cnitlrt]
 - [ ] vuln7
 - [ ] vuln8
