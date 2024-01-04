@@ -1,7 +1,7 @@
 # iot_vuln
 
 - [x] command_ject [joe1sn]
-- [ ] vuln1 
+- [ ] vuln1 [cnitlrt]
 - [x] vuln2 [cnitlrt]
 - [ ] vuln3 
 - [ ] vuln4
