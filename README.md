@@ -1,6 +1,6 @@
 # iot_vuln
 
-- [ ] vuln1 [joe1sn]
+- [x] vuln1 [joe1sn]
 - [x] vuln2 [cnitlrt]
 - [ ] vuln3 [joe1sn]
 - [ ] vuln4
